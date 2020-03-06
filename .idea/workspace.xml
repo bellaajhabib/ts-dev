@@ -31,6 +31,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ReadonlyStatusHandler">
@@ -107,7 +108,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583528551947</updated>
-      <workItem from="1583528555244" duration="2316000" />
+      <workItem from="1583528555244" duration="2745000" />
     </task>
     <servers />
   </component>
@@ -120,22 +121,26 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1276" height="170" key="GridCell.Tab.0.bottom" timestamp="1583530248951">
+    <state width="1276" height="170" key="GridCell.Tab.0.bottom" timestamp="1583532673488">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1276" height="170" key="GridCell.Tab.0.bottom/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248951" />
-    <state width="1276" height="170" key="GridCell.Tab.0.center" timestamp="1583530248950">
+    <state width="1276" height="170" key="GridCell.Tab.0.bottom/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583532673488" />
+    <state width="1276" height="170" key="GridCell.Tab.0.center" timestamp="1583532673488">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1276" height="170" key="GridCell.Tab.0.center/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248950" />
-    <state width="1276" height="170" key="GridCell.Tab.0.left" timestamp="1583530248950">
+    <state width="1276" height="170" key="GridCell.Tab.0.center/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583532673488" />
+    <state width="1276" height="170" key="GridCell.Tab.0.left" timestamp="1583532673487">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1276" height="170" key="GridCell.Tab.0.left/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248950" />
-    <state width="1276" height="170" key="GridCell.Tab.0.right" timestamp="1583530248951">
+    <state width="1276" height="170" key="GridCell.Tab.0.left/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583532673487" />
+    <state width="1276" height="170" key="GridCell.Tab.0.right" timestamp="1583532673488">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1276" height="170" key="GridCell.Tab.0.right/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248951" />
+    <state width="1276" height="170" key="GridCell.Tab.0.right/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583532673488" />
+    <state x="423" y="1107" key="SettingsEditor" timestamp="1583532656186">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state x="423" y="1107" key="SettingsEditor/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583532656186" />
     <state x="659" y="1383" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583529060229">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
