@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffde6704-e227-4c43-ab72-5767bb0ce96b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YlsX50pUPTYmmSMByTDbcJeQLd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="lite" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lite" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsc" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="tsc" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsc:w" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="tsc:w" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.lite" />
+        <item itemvalue="npm.tsc:w" />
+        <item itemvalue="npm.tsc" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffde6704-e227-4c43-ab72-5767bb0ce96b" name="Default Changelist" comment="" />
+      <created>1583528551947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583528551947</updated>
+      <workItem from="1583528555244" duration="1687000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1276" height="170" key="GridCell.Tab.0.bottom" timestamp="1583530248951">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1276" height="170" key="GridCell.Tab.0.bottom/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248951" />
+    <state width="1276" height="170" key="GridCell.Tab.0.center" timestamp="1583530248950">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1276" height="170" key="GridCell.Tab.0.center/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248950" />
+    <state width="1276" height="170" key="GridCell.Tab.0.left" timestamp="1583530248950">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1276" height="170" key="GridCell.Tab.0.left/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248950" />
+    <state width="1276" height="170" key="GridCell.Tab.0.right" timestamp="1583530248951">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1276" height="170" key="GridCell.Tab.0.right/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583530248951" />
+    <state x="659" y="1383" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583529060229">
+      <screen x="218" y="1080" width="1366" height="768" />
+    </state>
+    <state x="659" y="1383" width="540" height="175" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583529060229" />
+  </component>
+</project>

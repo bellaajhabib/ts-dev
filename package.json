@@ -1,0 +1,22 @@
+{
+  "name": "habib",
+  "version": "1.0.0",
+  "description": "typeScript",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "concurrently": "^5.1.0",
+    "lite-server": "^2.5.4",
+    "tsc": "^1.20150623.0",
+    "w": "^1.1.0"
+  },
+  "scripts": {
+    "test": "hi ",
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "lite": "lite-server",
+    "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
+  },
+  "author": "",
+  "license": "ISC"
+}
