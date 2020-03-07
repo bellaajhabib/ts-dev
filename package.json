@@ -1,22 +1,30 @@
 {
-  "name": "habib",
+  "name": "course-starting-project",
   "version": "1.0.0",
-  "description": "typeScript",
-  "main": "app.js",
+  "description": "",
+  "main": "src/app.js",
   "dependencies": {},
   "devDependencies": {
     "concurrently": "^5.1.0",
     "lite-server": "^2.5.4",
-    "tsc": "^1.20150623.0",
-    "w": "^1.1.0"
+    "tsc-watch": "^4.2.3",
+    "typescript": "^3.8.3"
   },
   "scripts": {
-    "test": "hi ",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
     "lite": "lite-server",
     "start": "concurrently \"npm run tsc:w\" \"npm run lite\" "
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellaajhabib/ts-dev.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellaajhabib/ts-dev/issues"
+  },
+  "homepage": "https://github.com/bellaajhabib/ts-dev#readme"
 }

@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "target": "ES5",
+    "outDir": "src/js",
+    "rootDir": "src",
+    "allowJs": true,
+
+    "strict": true
+    //    "strictNullChecks": true,              /* Enable strict null checks. */
+    //    "strictBindCallApply": true ,         /* Enable strict 'bind', 'call', and 'apply' methods on functions. */
+    //    /* Additional Checks */
+    //    "noUnusedLocals": true,                /* Report errors on unused locals. */
+    //    "noUnusedParameters": true,            /* Report errors on unused parameters. */
+    //    "noImplicitReturns": true           /* Report error when not all code paths in function return a value. */
+    //
+
+  }
+}
