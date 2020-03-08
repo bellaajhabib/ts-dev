@@ -2,20 +2,22 @@
   "compilerOptions": {
     /* Basic Options */
     // "incremental": true,                   /* Enable incremental compilation */
-    "target": "es5",                          /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */
+    "target": "es6",                          /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019', 'ES2020', or 'ESNEXT'. */
     "module": "commonjs",                     /* Specify module code generation: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */
-    // "lib": [],                             /* Specify library files to be included in the compilation. */
-     "allowJs": true,                       /* Allow javascript files to be compiled. */
-    // "checkJs": true,                       /* Report errors in .dist files. */
+//    "lib": [
+//      "DOM","ES6","DOM.Iterable"
+//    ],                             /* Specify library files to be included in the compilation. */
+      "allowJs": true,                       /* Allow javascript files to be compiled. */
+      "checkJs": true,                       /* Report errors in .dist files. */
     // "jsx": "preserve",                     /* Specify JSX code generation: 'preserve', 'react-native', or 'react'. */
     // "declaration": true,                   /* Generates corresponding '.d.ts' file. */
    // "declarationMap": true,                /* Generates a sourcemap for each corresponding '.d.ts' file. */
-    // "sourceMap": true,                     /* Generates corresponding '.map' file. */
+     //"sourceMap": true,                     /* Generates corresponding '.map' file. */
   //  "outFile": "/dist",                       /* Concatenate and emit output to single file. */
-    "outDir": "src/js",
-    "rootDir": "src",
-   // "allowJs": true,
-    // "composite": true,                     /* Enable project compilation */
+   "outDir": "./dist",
+    //rootDir": "src",
+
+   // "composite": true,                     /* Enable project compilation */
     // "tsBuildInfoFile": "./",               /* Specify file to store incremental compilation information */
     // "removeComments": true,                /* Do not emit comments to output. */
     // "noEmit": true,                        /* Do not emit outputs. */
@@ -65,6 +67,10 @@
     "forceConsistentCasingInFileNames": true  /* Disallow inconsistently-cased references to the same file. */
   },
   "exclude": [
-    "src/analytics.ts"
-  ]
+    "src/*.dev.ts",
+    "node_modules"// would be the default
+  ],"include": [
+  "src/app.ts",
+  "src/analytics.ts"
+]
 }

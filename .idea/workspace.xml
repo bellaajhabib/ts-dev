@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ffde6704-e227-4c43-ab72-5767bb0ce96b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/analytics.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/analytics.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/analytics.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/app.js" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -45,6 +50,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -126,20 +132,12 @@
       <option name="presentableId" value="Default" />
       <updated>1583528551947</updated>
       <workItem from="1583528555244" duration="2745000" />
-      <workItem from="1583532705857" duration="6654000" />
+      <workItem from="1583532705857" duration="13497000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/analytics.js" />
-        <option value="$PROJECT_DIR$/src/app.js" />
-        <option value="$PROJECT_DIR$/src/app.js.map" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -156,26 +154,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="667" y="1220" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583543635601">
+    <state x="667" y="1220" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583625196304">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state x="667" y="1220" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583543635601" />
-    <state width="1299" height="176" key="GridCell.Tab.0.bottom" timestamp="1583544500350">
+    <state x="667" y="1220" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583625196304" />
+    <state width="1299" height="176" key="GridCell.Tab.0.bottom" timestamp="1583625324969">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1299" height="176" key="GridCell.Tab.0.bottom/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583544500350" />
-    <state width="1299" height="176" key="GridCell.Tab.0.center" timestamp="1583544500350">
+    <state width="1299" height="176" key="GridCell.Tab.0.bottom/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583625324969" />
+    <state width="1299" height="176" key="GridCell.Tab.0.center" timestamp="1583625324969">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1299" height="176" key="GridCell.Tab.0.center/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583544500350" />
-    <state width="1299" height="176" key="GridCell.Tab.0.left" timestamp="1583544500350">
+    <state width="1299" height="176" key="GridCell.Tab.0.center/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583625324969" />
+    <state width="1299" height="176" key="GridCell.Tab.0.left" timestamp="1583625324969">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1299" height="176" key="GridCell.Tab.0.left/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583544500350" />
-    <state width="1299" height="176" key="GridCell.Tab.0.right" timestamp="1583544500350">
+    <state width="1299" height="176" key="GridCell.Tab.0.left/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583625324969" />
+    <state width="1299" height="176" key="GridCell.Tab.0.right" timestamp="1583625324969">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
-    <state width="1299" height="176" key="GridCell.Tab.0.right/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583544500350" />
+    <state width="1299" height="176" key="GridCell.Tab.0.right/218.1080.1366.768/285.0.1635.1080@218.1080.1366.768" timestamp="1583625324969" />
     <state x="423" y="1107" key="SettingsEditor" timestamp="1583532656186">
       <screen x="218" y="1080" width="1366" height="768" />
     </state>
